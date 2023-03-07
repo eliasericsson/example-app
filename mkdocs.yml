@@ -2,3 +2,6 @@ site_name: Example App
 
 nav:
   - Introduction: index.md
+
+plugins:
+  - techdocs-core
