@@ -5,6 +5,8 @@ metadata:
   description: An application to showcase an example
   tags:
     - python
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 
 spec:
   type: website
