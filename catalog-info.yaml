@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-app
+  description: An application to showcase an example
+  tags:
+    - python
+
+spec:
+  type: website
+  lifecycle: production
+  owner: elias
+  system: public-websites
